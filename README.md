@@ -1,2 +1,2 @@
 # Algorithms
-Different useful algorithms
+Different useful algorithms written mostly in C++ or Java.
